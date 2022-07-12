@@ -1,0 +1,36 @@
+body {
+    width: 95%;
+    max-width: 800px;
+    margin: auto;
+background: url(cascade-1144119_1920.jpg) center;
+
+    font-family: sans-serif;
+    line-height: 1.5;
+    color: white;
+}
+
+main {
+    background: #030303bf;
+    padding: 5px 40px;
+    margin-top: 20px;
+    border-radius: 20px;
+    
+}
+
+.logo, .hadeline, .IBG-name{
+    text-align:center;
+    margin: 0;    
+}
+
+.logo img {
+    max-width: 200px;
+    max-height:250px;
+}
+
+.IBG-name {
+    text-align: center;
+}
+
+.hadeline {
+text-align: center;
+}
